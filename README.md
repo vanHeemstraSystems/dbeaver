@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+dbeaver
+# DBeaver
 
-Based on "ABC" at https://www.abc.com/
+Based on "DBeaver" at https://dbeaver.io
+
+Based on "DBeaver on YouTube" at https://www.youtube.com/channel/UC-yOjsQLSaJVEghg6UB3N7A
 
 ## 100 - Introduction
 
