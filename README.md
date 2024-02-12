@@ -7,6 +7,8 @@ Based on "DBeaver on YouTube" at https://www.youtube.com/channel/UC-yOjsQLSaJVEg
 
 Based on "DBeaver – Universal tool for database management" at https://www.youtube.com/watch?v=ZWaEB3Yx5lE
 
+Based on "Simplifying any task with Data Editor in CloudBeaver" at https://www.youtube.com/watch?v=d-EB_eHeIR4
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
